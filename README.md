@@ -4,7 +4,7 @@ A modern, responsive clinical skincare website with a clean, premium, and user-f
 
 ## 🌐 Live Demo
 
-derma-assist-clinical-skincare.vercel.app
+[derma-assist-clinical-skincare.vercel.app](https://derma-assist-clinical-skincare.vercel.app)
 
 
 ## ✨ Features
